@@ -1,5 +1,5 @@
 html{
-  font: normal 14px/1.5 'Crimson Text', serif;
+  font: normal 0.15rem/1.5 'Crimson Text', serif;
 }
 
 nav ul{
@@ -7,7 +7,7 @@ nav ul{
 }
 
 h1{
-  font-size: 2.3rem
+  font-size: 0.23rem
 }
 
 section h3{

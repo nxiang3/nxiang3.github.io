@@ -1,0 +1,35 @@
+html{
+  font: normal 1.5rem/1.5 'Crimson Text', serif;
+}
+
+nav ul{
+  list-style-type: none;
+}
+
+h1{
+  font-size: 2.3rem
+}
+
+section h3{
+  text-transform: uppercase;
+  text-align: center;
+}
+
+section div{
+  text-align: center;
+}
+
+.pic{
+  float:left;
+}
+
+/* Links */
+a{
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #2e8b57
+  /*#6495ed
+}

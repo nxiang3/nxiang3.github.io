@@ -1,0 +1,68 @@
+html{
+  font: normal 1.5rem/1.5 'Crimson Text', serif;
+}
+
+body{
+}
+
+h1{
+  text-align: center;
+  font-size: 2.3rem;
+  margin:0;
+  padding:0;
+}
+
+header{
+  margin:0;
+  padding:0;
+}
+
+section h3{
+  text-transform: uppercase;
+  text-align: center;
+}
+
+section div{
+  text-align: center;
+}
+
+.pic{
+  float:left;
+}
+
+.view{
+  text-align: center;
+}
+
+/* Links */
+a{
+  color: #000;
+  text-decoration: none;
+}
+
+nav ul{
+  margin:0;
+  padding:1em;
+
+  list-style-type: none;
+  text-align: center;
+}
+
+nav li {
+  display: inline;
+  padding: 0.5em 0.75em;
+  text-align: center;
+}
+
+nav a{
+  display:inline-block;
+  width: 3em;
+  padding: 0em;
+  font-size: 1.5em;
+}
+
+a:hover{
+  color: #6495ed;
+  /*#6495ed
+  /*#2e8b57
+}
